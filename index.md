@@ -23,7 +23,7 @@ I had to have prior knowledge relating to all of these questions to figure out h
 
 ### My work
 This is where things go downhill. Press 'F' to pay respects to any momentum I had going into this paragraph. I'm fourteen years old as I'm writing this, so sorry I don't have much to show you. I haven't done much worth presenting other than this website that you're looking at. I've made some things here and there over the years, sure, but I don't think the various little coding doodads that I'd made to teach myself (which usually ended up lost on the dead laptops I killed when I was far younger, RIP) are going to get me into the tech industry. I'm currently focusing on making my highschool career a four year period of professional development and learning, so I can become more than just some script kid that begins interesting projects that gives up before letting anything fizzle into being. I'm going to make some stuff worth presenting, and you're gonna look at them, and if you don't then I'll force you and yes, that is a threat. Seeya around 'till then, Space Cowboy.
-#<p align="center">♥</p>
+<h1 align="center">♥</h1>
 ```
 Last updated: December 25th, 2017
 ```
