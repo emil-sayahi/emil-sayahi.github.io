@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Pixel-Hearts';
+  src: url('Pixel-Hearts.eot');
+  src: url('Pixel-Hearts.woff2') format('woff2'),
+       url('Pixel-Hearts.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PixelHearts-Regular';
+  src: url('PixelHearts-Regular.woff') format('woff'),
+       url('PixelHearts-Regular.ttf') format('truetype'),
+       url('PixelHearts-Regular.svg#PixelHearts-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
