@@ -5,6 +5,7 @@ Hello! I'm Emil Sayahi, a script kid from Cincinnati, a city on the east coast o
 ```
 Last updated: December 25th, 2017
 ```
+```
       ___           ___           ___           ___     
      /  /\         /__/\         /  /\         /  /\    
     /  /:/_       |  |::\       /  /:/_       /  /::\   
@@ -17,3 +18,4 @@ Last updated: December 25th, 2017
     \  \::/       \  \:\         /__/:/       \  \:\    
      \__\/         \__\/         \__\/         \__\/    
 
+```
