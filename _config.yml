@@ -9,4 +9,4 @@ collections:
     title: Uploads
     output: true
 theme: jekyll-theme-modernist
-permalink: /404.md
+permalink: /404.html
