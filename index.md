@@ -26,7 +26,7 @@ This is where things go downhill. Press 'F' to pay respects to any momentum I ha
 <h1 align="center">^</h1>
 
 ```
-Last updated: December 25th, 2017
+Last updated: January 6th, 2018
 ```
 <p style="font-family: TimesNewRoman, Times New Roman, Times, Baskerville, Georgia, serif;
 	font-size: 10px;
