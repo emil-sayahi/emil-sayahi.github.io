@@ -28,3 +28,9 @@ This is where things go downhill. Press 'F' to pay respects to any momentum I ha
 ```
 Last updated: December 25th, 2017
 ```
+<p style="font-family: TimesNewRoman, Times New Roman, Times, Baskerville, Georgia, serif;
+	font-size: 10px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 16px;">Copyright © 2017-2018 by Emil Sayahi. All rights reserved.</p>
