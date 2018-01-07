@@ -10,3 +10,6 @@ collections:
     output: true
 theme: jekyll-theme-modernist
 permalink: /404.html
+plugins:
+  - jemoji
+  - jekyll-mentions
