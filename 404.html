@@ -1,48 +1,4 @@
 <audio src="error1.mp3" autoplay hidden></audio>
-<script>
-	var node= document.getElementById("elementId");
-var canvas = document.createElement("canvas");
-canvas.height = node.offsetHeight;
-canvas.width = node.offsetWidth;
-var name = "test.png"
-
-rasterizeHTML.drawHTML(node.outerHTML, canvas)
-     .then(function (renderResult) {
-            if (navigator.msSaveBlob) {
-                window.navigator.msSaveBlob(canvas.msToBlob(), name);
-            } else {
-                const a = document.createElement("a");
-                document.body.appendChild(a);
-                a.style = "display: none";
-                a.href = canvas.toDataURL();
-                a.download = name;
-                a.click();
-                document.body.removeChild(a);
-            }
-     });
-	$(document).ready(function() {
-  var $crt = $("canvas");
-  var data = $crt.attr("src");
-  var maxErrors = 100;
-  var margin = 2200;
-
-  function update() {
-    var corrupted = data;
-    if (Math.random() > 0.7) {
-      var errors = Math.round(Math.random() * maxErrors)
-      for (var i = 0; i < errors; i++) {
-        var p = margin + Math.round(Math.random() * (corrupted.length - margin - 1));
-        corrupted = corrupted.substr(0, p) + corrupted.charAt(p + 1) + corrupted.charAt(p) + corrupted.substr(p + 2);
-      }
-    }
-    $crt.attr("src", corrupted);
-
-  }
-  update();
-  setInterval(update, 26);
-
-});
-</script>
 <style>
 /* CRT effect by the wonderful Alec Lownes. http://aleclownes.com/2017/02/01/crt-display.html */
 @keyframes flicker {
@@ -206,8 +162,48 @@ rasterizeHTML.drawHTML(node.outerHTML, canvas)
   animation: textShadow 1.6s infinite;
 }
 
+/* Glitch effect by Claudio. https://codepen.io/traverso85/pen/zBIeK?page=2 */
+@keyframes noise-anim{
+  $steps:20;
+  @for $i from 0 through $steps{
+    #{percentage($i*(1/$steps))}{
+      clip:rect(random(100)+px,9999px,random(100)+px,0);
+    }
+  }
+}
+.glitch:after{
+  content:attr(data-text);
+  position:absolute;
+  left:2px;
+  text-shadow:-1px 0 red;
+  top:0;
+  color:white;
+  background:black;
+  overflow:hidden;
+  clip:rect(0,900px,0,0); 
+  animation:noise-anim 2s infinite linear alternate-reverse;
+}
 
-
+@keyframes noise-anim-2{
+  $steps:20;
+  @for $i from 0 through $steps{
+    #{percentage($i*(1/$steps))}{
+      clip:rect(random(100)+px,9999px,random(100)+px,0);
+    }
+  }
+}
+.glitch:before{
+  content:attr(data-text);
+  position:absolute;
+  left:-2px;
+  text-shadow:1px 0 blue; 
+  top:0;
+  color:white;
+  background:black;
+  overflow:hidden;
+  clip:rect(0,900px,0,0); 
+  animation:noise-anim-2 3s infinite linear alternate-reverse;
+}
 
 
 
@@ -245,7 +241,7 @@ font-variant: normal;
 <meta name="msapplication-TileImage" content="/mstile-144x144.png">
 <meta name="theme-color" content="#ffffff">
 </head>
-<crt class="crt">
+<crt class="crt glitch">
 <body>
 <pre style="color: Navy; font-family: "blockfont", Verdana, sans-serif;-webkit-font-smoothing : none;
 font-smooth: never;
