@@ -1,8 +1,28 @@
 <audio src="error1.mp3" autoplay hidden></audio>
 <script>
+	var node= document.getElementById("elementId");
+var canvas = document.createElement("canvas");
+canvas.height = node.offsetHeight;
+canvas.width = node.offsetWidth;
+var name = "test.png"
+
+rasterizeHTML.drawHTML(node.outerHTML, canvas)
+     .then(function (renderResult) {
+            if (navigator.msSaveBlob) {
+                window.navigator.msSaveBlob(canvas.msToBlob(), name);
+            } else {
+                const a = document.createElement("a");
+                document.body.appendChild(a);
+                a.style = "display: none";
+                a.href = canvas.toDataURL();
+                a.download = name;
+                a.click();
+                document.body.removeChild(a);
+            }
+     });
 	$(document).ready(function() {
-  var $crt = $("crt");
-  var data = $crt;
+  var $crt = $("canvas");
+  var data = $crt.attr("src");
   var maxErrors = 100;
   var margin = 2200;
 
@@ -15,7 +35,7 @@
         corrupted = corrupted.substr(0, p) + corrupted.charAt(p + 1) + corrupted.charAt(p) + corrupted.substr(p + 2);
       }
     }
-    $crt.attr(corrupted);
+    $crt.attr("src", corrupted);
 
   }
   update();
