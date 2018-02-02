@@ -9,7 +9,7 @@ collections:
     title: Uploads
     output: true
 theme: jekyll-theme-modernist
-permalink: /404.html
+permalink: "/404.html"
 plugins:
-  - jemoji
-  - jekyll-mentions
+- jemoji
+- jekyll-mentions
