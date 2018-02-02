@@ -162,48 +162,6 @@
   animation: textShadow 1.6s infinite;
 }
 
-/* Glitch effect found on CodePen.io. https://codepen.io/bau5bot/pen/tlnof?page=3 */
-	
-.glitch{
-}
-@keyframes noise-anim{
-  $steps:20;
-  @for $i from 0 through $steps{
-    #{percentage($i*(1/$steps))}{
-      clip:rect(random(100)+px,9999px,random(100)+px,0);
-    }
-  }
-}
-.glitch:after{
-  content:attr(data-text);
-  position:absolute;
-  left:2px;
-  text-shadow:-1px 0 red;
-  top:0;
-  overflow:hidden;
-  clip:rect(0,900px,0,0); 
-  animation:noise-anim 2s infinite linear alternate-reverse;
-}
-
-@keyframes noise-anim-2{
-  $steps:20;
-  @for $i from 0 through $steps{
-    #{percentage($i*(1/$steps))}{
-      clip:rect(random(100)+px,9999px,random(100)+px,0);
-    }
-  }
-}
-.glitch:before{
-  content:attr(data-text);
-  position:absolute;
-  left:-2px;
-  text-shadow:1px 0 blue; 
-  top:0;
-  overflow:hidden;
-  clip:rect(0,900px,0,0); 
-  animation:noise-anim-2 3s infinite linear alternate-reverse;
-}
-
 
 @font-face {
 font-family: "blockfont";
@@ -218,7 +176,7 @@ font-variant: normal;
 }
 </style>
 <head>
-<title>ＥＲＲＯＲ</title>
+<title>ＥＭＳＡ　Ｉｎｄｕｓｔｒｉｅｓ　－　ＤＩＲＥＣＴＯＲＹ　ＥＲＲＯＲ</title>
 <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
 <link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
 <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
