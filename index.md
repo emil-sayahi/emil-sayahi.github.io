@@ -27,7 +27,7 @@ This is where things go downhill. Press 'F' to pay respects to any momentum I ha
 ## [Chrome Search Extension Base](https://github.com/emil-sayahi/Chrome-Search-Base)
 This was a simple Chrome extension meant for easy modification that implemented searching via a specified search engine by typing a keyword into the omnibox.
 
-## [Hello Plugin](https://github.com/EmilSayahi/Hello-Plugin)
+## [Hello Plugin](https://github.com/emil-sayahi/Hello-Plugin)
 This was a simple SourceMod plugin for Source Engine game servers. It printed "Hello!" in the chat when activated by the command /hello.
 
 ## [OpenTK Rendering Experiment](https://github.com/emil-sayahi/TriBox)
