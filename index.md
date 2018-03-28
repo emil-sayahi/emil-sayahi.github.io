@@ -44,9 +44,9 @@ Wait, what? Yep. This was a calculator made in VB.NET many, many years ago. I fo
 
 ## CAD 3D Modeling (Part Drafting)
 I've drafted a lot of complex parts for my Engineering & Drafting class. Take a look around.
-	[5-5a CAD Model Features Part 1](https://drive.google.com/drive/folders/1Okz_gF2wIAcCekOtYcqRDz_e0pjdPxxt?usp=sharing)
-	[5-5b CAD Model Features Part 2](https://drive.google.com/drive/folders/14I_ffnH0n81QmkAWd4kaBPYMH8_PIWq8?usp=sharing)
-	[5-6 Physical Properties Analysis](https://drive.google.com/drive/folders/1cceX8qC0opWxxbesKCQjJL1RV2eT37QC?usp=sharing)
+- [5-5a CAD Model Features Part 1](https://drive.google.com/drive/folders/1Okz_gF2wIAcCekOtYcqRDz_e0pjdPxxt?usp=sharing)
+- [5-5b CAD Model Features Part 2](https://drive.google.com/drive/folders/14I_ffnH0n81QmkAWd4kaBPYMH8_PIWq8?usp=sharing)
+- [5-6 Physical Properties Analysis](https://drive.google.com/drive/folders/1cceX8qC0opWxxbesKCQjJL1RV2eT37QC?usp=sharing)
 
 <h1 align="center">^</h1>
 
