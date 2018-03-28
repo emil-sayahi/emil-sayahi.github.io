@@ -24,7 +24,7 @@ I had to have prior knowledge relating to all of these questions to figure out h
 ### Work
 This is where things go downhill. Press 'F' to pay respects to any momentum I had going into this paragraph. I'm fourteen years old as I'm writing this, so sorry I don't have much to show you. I haven't done much worth presenting other than this website that you're looking at. I've made some things here and there over the years, sure, but I don't think the various little coding doodads that I'd made to teach myself (which usually ended up lost on the dead laptops I killed when I was far younger, RIP) are going to get me into the tech industry. I'm currently focusing on making my highschool career a four year period of professional development and learning, so I can become more than just some script kid that begins interesting projects that gives up before letting anything fizzle into being. I'm going to make some stuff worth presenting, and you're gonna look at them, and if you don't then I'll force you and yes, that is a threat. Seeya around 'till then, Space Cowboy. If you want to keep in touch with me, shoot me an e-mail at: [`em@emsa.cf`](mailto:em@emsa.cf?subject=I'm the Space Cowboy, and ...). Thanks.
 
-## [Chrome Search Extension Base](https://github.com/EmilSayahi/Chrome-Search-Base)
+## [Chrome Search Extension Base](https://github.com/emil-sayahi/Chrome-Search-Base)
 This was a simple Chrome extension meant for easy modification that implemented searching via a specified search engine by typing a keyword into the omnibox.
 
 ## [Hello Plugin](https://github.com/EmilSayahi/Hello-Plugin)
