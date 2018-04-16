@@ -34,13 +34,13 @@ This was a simple SourceMod plugin for Source Engine game servers. It printed "H
 This was a rendering program that was intended to be a game engine using OpenGL, written in C#, based on a collection of model loader classes called Meshomatic. It could load basic .OBJ models. Mainly what I managed to accomplish with this was loading in different kinds of models and rotating them.
 
 ## [Isla Delphiino](https://github.com/emil-sayahi/Isla-Delphiino)
-This was a work-in-progress utility for packaging up a portable copy of the Dolphin emulator and a Wii or Gamecube .ISO into a single, portable package. The main result of this was not a utility, as I eventually learned it was impossible not only because of the legal consequences that I was aware of prior, but also because of the UI code of Dolphin. What I got out of this project was a UI that was an extremely accurate replication of the Wii system settings UI, which showed how good I was in reverse engineering user interfaces.
+This was a work-in-progress utility for packaging up a portable copy of the Dolphin emulator and a Wii or Gamecube .ISO into a single, portable package. The main result of this was not a utility, as I eventually learned it was impossible not only because of the legal consequences that I was aware of prior, but also because of the UI code of Dolphin (Wx cannot be removed like Qt). What I got out of this project was a UI that was an extremely accurate replication of the Wii system settings UI, which showed how good I was in reverse engineering user interfaces.
 
 ## [Lime School](https://limeschool.cf)
 This is a school blog that contains the work of the classes I've taken that have asked me to host a blog. Code is on GitHub, and it runs on Jekyll. Taught me how to use a CMS, markdown, Jekyll, GitHub Pages, and Cloudflare.
 
 ## [Calculator](https://github.com/emil-sayahi/Calculator)
-Wait, what? Yep. This was a calculator made in VB.NET many, many years ago. I found it and put it up on GitHub to prove that I can use Visual Studio and that I know VB.NET to a certain extent.
+Just a calculator? Yep. This was a calculator made in VB.NET many, many years ago. I found it and put it up on GitHub to prove that I can use Visual Studio and that I know VB.NET to a certain extent. Not much else to say on it.
 
 ## CAD 3D Modeling (Part Drafting)
 I've drafted a lot of complex parts for my Engineering & Drafting class. Take a look around.
