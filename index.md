@@ -47,6 +47,7 @@ I've drafted a lot of complex parts for my Engineering & Drafting class. Take a 
 - [5-5a CAD Model Features Part 1](https://drive.google.com/drive/folders/1Okz_gF2wIAcCekOtYcqRDz_e0pjdPxxt?usp=sharing)
 - [5-5b CAD Model Features Part 2](https://drive.google.com/drive/folders/14I_ffnH0n81QmkAWd4kaBPYMH8_PIWq8?usp=sharing)
 - [5-6 Physical Properties Analysis](https://drive.google.com/drive/folders/1cceX8qC0opWxxbesKCQjJL1RV2eT37QC?usp=sharing)
+- [7-1 More Dimensioning](https://drive.google.com/drive/folders/1xsQr3ytjxgDC9Ll0aQoxQTGhIBEdlx7l?usp=sharing)
 - [7-2 Sectional Views](https://drive.google.com/drive/folders/16DqfjxuD7NTP5W2OQ_aCChGZ_xayZ0ji?usp=sharing)
 - [7-3 Tolerances](https://drive.google.com/drive/folders/1fe5biJBgl0MA8ygDCqX03hJWdRWhLewa?usp=sharing)
 
@@ -56,7 +57,7 @@ I had to model an entire house and the things inside of it a couple years ago fo
 <h1 align="center">^</h1>
 
 ```
-Last updated: March 28th, 2018
+Last updated: April 16th, 2018
 ```
 <p style="font-family: TimesNewRoman, Times New Roman, Times, Baskerville, Georgia, serif;
 	font-size: 10px;
