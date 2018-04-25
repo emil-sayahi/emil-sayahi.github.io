@@ -1,6 +1,6 @@
 
 
-Hello! I'm Emil Sayahi, a script kid from Cincinnati, a city on the east coast of America. This is my website, which I'll use to catalogue all the various things I may or may not do over time. Hopefully, four years down the line I'll have a portfolio of work that'll be presentable and filled with things that'll show the kind of work ethic and knowledge I have. 
+Hello! I'm Emil Sayahi, a script kid from Cincinnati who doesn't know what to do with their lives. This is my website, which I'll use to catalogue all the various things I may or may not do over time. Hopefully, four years down the line I'll have a portfolio of work that'll be presentable and filled with things that'll show the kind of work ethic and knowledge I have. 
 
 ### Education & Experience
 
@@ -12,12 +12,12 @@ I currently attend Turpin High School, a suburban public school that has been ab
 - An [INTERalliance](http://interalliance.org/) chapter which provided many educational opportunities, such as one-day crash course classes and participation in a local tech-expo.
 
 Besides my school education, I've taught myself VB.NET (the .NET Framework version of Visual Basic), some C#, the logic behind programming of all kinds, and general things, like what file types are for what, what programs to use to achieve various goals and the whatnot. Take this website for example. Just to get this website up, I had to learn the answers to the following questions:
-1. What is the Git protocol that everyone is talking about, why does GitHub exist, and how will they help me?
-2. How do I put a site up online? How do I get a domain name and webpages to back it up with?
-3. What is the underlying language that makes up a webpage? What is it called and what are its rules?
+1. What is the Git protocol that everyone is talking about, what is GitHub, and how will it help me?
+2. How do I put a site up online? How do I get a domain name and some webpages to back it up with?
+3. What is the underlying language that makes up a webpage? How are they written?
 4. How do I create a base site using said language that will be easily modifiable in the future?
-5. What is this DNS managment thing people keep mentioning in all of these articles, and how could this Cloudflare thing that everyone uses help me with that?
-6. How do I get my own domain e-mail address, with my own branding and all?
+5. What is this DNS managment thing people keep mentioning in all of these articles, and how could this Cloudflare thing that keeps coming up help me with that?
+6. How do I get a domain specific email address?
 
 I had to have prior knowledge relating to all of these questions to figure out how to get these words to you to begin with. I learned the answers to these questions from years of lurking online, reading articles, and actually implementing my knowledge to create websites for myself and my brother (which are likely long gone by the time you're reading this).
 
@@ -57,7 +57,7 @@ I had to model an entire house and the things inside of it a couple years ago fo
 <h1 align="center">^</h1>
 
 ```
-Last updated: April 16th, 2018
+Last updated: April 25th, 2018
 ```
 <p style="font-family: TimesNewRoman, Times New Roman, Times, Baskerville, Georgia, serif;
 	font-size: 10px;
