@@ -1,0 +1,140 @@
+HTML:
+<title>［ｅｍ］ｉｌ　［ｓａ］ｙａｈｉ</title>
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/android-chrome-192x192.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#cca499">
+<meta name="apple-mobile-web-app-title" content="［ｅｍ］ｉｌ　［ｓａ］ｙａｈｉ">
+<meta name="application-name" content="［ｅｍ］ｉｌ　［ｓａ］ｙａｈｉ">
+<meta name="msapplication-TileColor" content="#ffdcd2">
+<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+<header>
+        <h1>
+		［ｅｍ］ 
+		<code class="highlighter-rouge">
+		<sub>ｉｌ</sub>　
+		</code>
+		［ｓａ］
+		<code class="highlighter-rouge">
+		<sub>ｙａｈｉ</sub>
+		</code>
+		</h1>
+        
+          <p>Hey, listen to ［ｅｍ］!</p>
+        
+        <p class="view"><a href="https://github.com/emil-sayahi/emil-sayahi.github.io">View my GitHub<small></small></a></p>
+        <ul>
+        
+          <li><a href="https://github.com/emil-sayahi/">View my <strong>GitHub</strong></a></li>
+        </ul>
+      </header>
+      
+CSS:
+header {
+ border-radius:8px 8px 0 0;
+ background:#fac6ea !important;
+ background:linear_gradient(#fcddfb, #fac6ea) !important;
+ position:relative;
+ padding:15px 20px;
+ border-bottom:1px solid #E1B2D2 !important
+}
+
+footer > p {
+display: none;
+}
+div.wrapper > header {
+display: none;
+}
+
+body {
+ background: #6e6c89;
+ background: 	#6e6c89 linear_gradient(#6e6c89, #444355)  url('checker.png') fixed;
+ background-image:url('checker.png') !important;
+}
+
+header ul li {
+ width:79px !important;
+ float:left;
+ border-right:0px solid #3a3abe !important;
+ height:38px
+}
+
+header ul {
+ margin:0;
+ padding:0;
+ list-style:none;
+ position:absolute;
+ z-index:1;
+ right:20px;
+ top:20px;
+ height:38px;
+ padding:1px 0;
+ background:#5151df !important;
+ background:linear_gradient(#7777fb, #3737cd) !important;
+ border-radius:5px;
+ box-shadow:inset rgba(255,255,255,0.45) 0 1px 0,inset rgba(0,0,0,0.2) 0 -1px 0;
+ width:auto
+}
+
+header h1 {
+ margin:0;
+ padding:0;
+ font-size:24px;
+ line-height:1.2;
+ color:#990066 !important;
+ text-shadow:rgba(255,255,255,0.9) 0 1px 0
+}
+
+header p {
+ margin:0;
+ color:#8b6177 !important;
+ width:300px;
+ font-size:13px
+}
+
+@font-face {
+    font-family: 'pixel_hearts_lcregular';
+    src: url('pixel-hearts-lc-webfont.eot');
+    src: url('pixel-hearts-lc-webfont.eot?#iefix') format('embedded-opentype'),
+         url('pixel-hearts-lc-webfont.woff2') format('woff2'),
+         url('pixel-hearts-lc-webfont.woff') format('woff'),
+         url('pixel-hearts-lc-webfont.ttf') format('truetype'),
+         url('pixel-hearts-lc-webfont.svg#pixel_hearts_lcregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+  font-family: 'PixelHearts-Regular';
+  src: url('PixelHearts-Regular.woff') format('woff'),
+       url('PixelHearts-Regular.ttf') format('truetype'),
+       url('PixelHearts-Regular.svg#PixelHearts-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+section h1 {
+  font-family: 'PixelHearts-Regular' !important;
+  src: url('PixelHearts-Regular.woff') format('woff'),
+       url('PixelHearts-Regular.ttf') format('truetype'),
+       url('PixelHearts-Regular.svg#PixelHearts-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
