@@ -3,14 +3,6 @@
 Heyo, I'm Emil, a Swedish-Finnish-American script kid in Cincinnati who likes tinkerin' around! I program and do work in CAD modeling. This is my website, which I'll use to catalogue all the various things I've done over time. Hopefully, by four years after I've set up this site I'll have a portfolio of work that'll be presentable; filled with things that'll show the kind of work ethic and knowledge I have. 
 
 ### Education & Experience
-<embed src="experience.html" style="        
-	position: fixed;
-        top: 52.5%;
-        left: 82.5%;
-                                    background: #cdc0ff;
-        transform: translate(-50%, -50%);
-                                      border-radius: 13px;
-  padding: 3px;" width="500" height="875">
 
 I currently attend Turpin High School, a suburban public school that has been able to provide many great opportunities, including:
 - A programming course covering Python and constructs present in most languages (Comments, booleans, 'if' statements, comparison operators, logical operations, short circuit evaluation, De Morgan's laws, floating point numbers, 'while' loops, 'for' loops, 'break' and 'continue', nested control structures, functions [+ parameters & return values], exception handling, indexing & slicing, string immutability, slicing & concatenation, the 'in' keyword, various string methods, tuples, lists, and list methods.)
