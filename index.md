@@ -5,9 +5,9 @@ Heyo, I'm Emil, a Swedish-Finnish-American script kid in Cincinnati who likes ti
 ### Education & Experience
 <embed src="experience.html" style="        
 	position: fixed;
-        top: 25%;
-        left: 50%;
-        transform: translate(-50%, -50%);"> 
+        top: 52.5%;
+        left: 82.5%;
+        transform: translate(-50%, -50%);" width="500" height="875">
 
 I currently attend Turpin High School, a suburban public school that has been able to provide many great opportunities, including:
 - A programming course covering Python and constructs present in most languages (Comments, booleans, 'if' statements, comparison operators, logical operations, short circuit evaluation, De Morgan's laws, floating point numbers, 'while' loops, 'for' loops, 'break' and 'continue', nested control structures, functions [+ parameters & return values], exception handling, indexing & slicing, string immutability, slicing & concatenation, the 'in' keyword, various string methods, tuples, lists, and list methods.)
