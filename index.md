@@ -8,7 +8,7 @@ I currently attend Turpin High School, a suburban public school that has been ab
 - A programming course covering Python and constructs present in most languages (Comments, booleans, 'if' statements, comparison operators, logical operations, short circuit evaluation, De Morgan's laws, floating point numbers, 'while' loops, 'for' loops, 'break' and 'continue', nested control structures, functions [+ parameters & return values], exception handling, indexing & slicing, string immutability, slicing & concatenation, the 'in' keyword, various string methods, tuples, lists, and list methods.)
 - An engineering course that involved learning CAD modeling.
 - A STEM course that required us to learn basic 3D modeling in Sketchup.
-- An opportunity to go to Live Oaks, a vocational school with a strong STEM focus, especially on programming.
+- An opportunity to go to Live Oaks, a vocational school with a strong STEM focus, especially on programming and engineering.
 - An [INTERalliance](http://interalliance.org/) chapter which provided many educational opportunities, such as one-day crash course classes and participation in a local tech-expo.
 
 Besides my school education, I've taught myself VB.NET (the Microsoft .NET Framework version of Visual Basic), some C#, the logic behind programming of all kinds, and other non-specific things, like 3D mapping in the Source Engine (although I haven't worked in Source in years). A good example to show to demonstrate my computer competence would be the very existence of this website. Just to get this website up, I had to solve the following problems:
