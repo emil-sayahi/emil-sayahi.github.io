@@ -39,6 +39,9 @@ This was a simple SourceMod plugin for Source Engine game servers. It printed "H
 ## [Calculator](https://github.com/emil-sayahi/Calculator)
 Just a calculator? Yep. This was a calculator made in VB.NET many, many years ago. I found it and put it up on GitHub to prove that I can use Visual Studio and that I know VB.NET to a certain extent. Not much else to say on it.
 
+## [TryMath](http://emsa.cf/trymath.html)
+I tried getting math text to render on the site. When it did, I decided to make a Python script to calculate the stupid equation I bothered to render.
+
 
 ## [OpenTK Rendering Experiment](https://github.com/emil-sayahi/TriBox)
 This was a rendering program that was intended to be a game engine using OpenGL, written in C#, based on a collection of model loader classes called Meshomatic. It could load basic .OBJ models. Mainly what I managed to accomplish with this was loading in different kinds of models and manipulating their positions on screen by transforming the camera.
