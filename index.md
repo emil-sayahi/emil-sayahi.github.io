@@ -1,6 +1,6 @@
 
 
-Heyo, I'm Emil, a script kid from Cincinnati who likes tinkerin' around! I program and do work in CAD modeling. This is my website, which I'll use to catalogue all the various things I've done over time. Hopefully, by four years after I've set up this site I'll have a portfolio of work that'll be presentable; filled with things that'll show the kind of work ethic and knowledge I have. 
+Heyo, I'm Emil, a Swedish-Finnish-American script kid in Cincinnati who likes tinkerin' around! I program and do work in CAD modeling. This is my website, which I'll use to catalogue all the various things I've done over time. Hopefully, by four years after I've set up this site I'll have a portfolio of work that'll be presentable; filled with things that'll show the kind of work ethic and knowledge I have. 
 
 ### Education & Experience
 
