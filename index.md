@@ -22,7 +22,7 @@ Besides my school education, I've taught myself VB.NET (the Microsoft .NET Frame
 Without competence, knowledge, and a good work ethic, you wouldn't be reading this now would you?
 
 ### Work
-Sorry I don't have much to show you for right now. I hadn't been working on cataloguing my work until I turned fourteen, so a lot of my old experiments and creations are lost to the sands of time. They were garbage anyway, so I'll be focusing on making my highschool career a four year period of professional development and learning, so I can have something to present to you. I'll leave you alone now. Go and take a look at what I have here. Seeya around, Space Cowboy. If you want to contact me, shoot me an e-mail at: [`em@emsa.cf`](mailto:em@emsa.cf?subject=...). Thanks.
+Sorry I don't have much to show you for right now. I hadn't been working on cataloguing my work until I turned fourteen, so a lot of my old experiments and creations are lost to the sands of time. They were garbage anyway, so I'll be focusing on making my highschool career a four year period of professional development and learning, so I can have something to present to you. I'll leave you alone now. Go and take a look at what I have here. Seeya around, Space Cowboy. If you want to contact me, shoot me an e-mail at: [`em@emsa.cf`](mailto:em@emsa.cf?subject=I'm gonna make you a billionaire! ...). Thanks.
 
 ## [Chrome Search Extension Base](https://github.com/emil-sayahi/Chrome-Search-Base)
 This was a simple Chrome extension meant for easy modification that implemented searching via a keyword preceding the user's search term typed into the Chrome omnibox.
