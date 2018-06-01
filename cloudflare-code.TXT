@@ -1,4 +1,8 @@
 HTML:
+head:
+<link rel="stylesheet" href="https://github.com/buzinas/simple-scrollbar/raw/master/simple-scrollbar.css">
+    <!--[if IE 9]><script src="https://cdn.jsdelivr.net/classlist/2014.01.31/classList.min.js"></script><![endif]-->
+    <script src="https://github.com/buzinas/simple-scrollbar/raw/master/simple-scrollbar.min.js"></script>
 <title>［ｅｍ］ｉｌ　［ｓａ］ｙａｈｉ</title>
 <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
 <link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
@@ -20,6 +24,7 @@ HTML:
 <meta name="msapplication-TileImage" content="/mstile-144x144.png">
 <meta name="theme-color" content="#ffffff">
 
+body > .wrapper:
 <header>
         <h1>
 		［ｅｍ］ 
@@ -37,9 +42,30 @@ HTML:
         <p class="view"><a href="https://github.com/emil-sayahi/emil-sayahi.github.io">View my GitHub<small></small></a></p>
         <ul>
         
-          <li><a href="https://github.com/emil-sayahi/">View my <strong>GitHub</strong></a></li>
+          <li><a href="https://github.com/orgs/ByEmilSayahi/people/">View my <strong>GitHub</strong></a></li>
         </ul>
       </header>
+body:
+<style>
+.wrapper{
+        top: 50%;
+        left: 50%;
+transform: translate(-22.5%, -0%);
+}
+</style>
+<div ss-container="" class="ss-container">
+<div class="ss-wrapper"><div class="ss-content">
+<embed src="experience.html" style="        
+	position: fixed;
+        top: 50%;
+        left: 82.5%;
+                                    background: #cdc0ff;
+        transform: translate(-50.5%, -50%);
+                                      border-radius: 13px;
+  padding: 3px;" width=25% height=80%
+</div>
+</div>
+</div>
       
 CSS:
 header {
@@ -59,8 +85,8 @@ display: none;
 }
 
 body {
- background: #6e6c89;
- background: 	#6e6c89 linear_gradient(#6e6c89, #444355)  url('checker.png') fixed;
+ background: #6e6c89 !important;
+ background: 	#6e6c89 linear_gradient(#6e6c89, #444355)  url('checker.png') fixed !important;
  background-image:url('checker.png') !important;
 }
 
@@ -137,4 +163,56 @@ section h1 {
        url('PixelHearts-Regular.svg#PixelHearts-Regular') format('svg');
   font-weight: normal;
   font-style: normal;
+}
+
+.ss-wrapper {
+  overflow: hidden;
+//  width: 100%;
+//  height: 100%;
+  position: relative;
+  z-index: 1;
+  float: left;
+}
+
+.ss-content {
+  height: 100%;
+  width: calc(100% + 18px);
+  padding: 0 0 0 0;
+  position: relative;
+  overflow: auto;
+  box-sizing: border-box;
+}
+
+.ss-content.rtl {
+  width: calc(100% + 18px);
+  right: auto;
+}
+
+.ss-scroll {
+  position: relative;
+  background: rgba(0, 0, 0, 0.1);
+  width: 9px;
+  border-radius: 4px;
+  top: 0;
+  z-index: 2;
+  cursor: pointer;
+  opacity: 0;
+  transition: opacity 0.25s linear;
+}
+
+.ss-hidden {
+  display: none;
+}
+
+.ss-container:hover .ss-scroll,
+.ss-container:active .ss-scroll {
+  opacity: 1;
+}
+
+.ss-grabbed {
+  -o-user-select: none;
+  -ms-user-select: none;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  user-select: none;
 }
