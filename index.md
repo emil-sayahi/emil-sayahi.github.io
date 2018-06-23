@@ -74,7 +74,7 @@ SketchSpace is a Jekyll-ran system of publishing web comics to the web. It's mad
 <h1 align="center">^</h1>
 
 ```
-Last updated: May 18th, 2018
+Last updated: June 23rd, 2018
 ```
 <p style="font-family: TimesNewRoman, Times New Roman, Times, Baskerville, Georgia, serif;
 	font-size: 10px;
