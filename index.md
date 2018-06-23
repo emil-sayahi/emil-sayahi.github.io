@@ -67,6 +67,9 @@ I've drafted a lot of complex parts for my Engineering & Drafting class. Take a 
 	- [Part Drawings & Project Videos](https://drive.google.com/open?id=1-SLNnRsgbT59mriSYPTpyeMdbzXKqiCW)
 	- [Part & Assembly Files](https://drive.google.com/drive/folders/1PK37dpg4KYz_6_9CvNXwLHqyKJ-ttLDm?usp=sharing)
 
+## [SketchSpace](https://github.com/EmilSayahi/SketchSpace)
+SketchSpace is a Jekyll-ran system of publishing web comics to the web. It's made using HTML, CSS, and JavaScript in an effort to make it as static as possible within the realm of reason.
+
 
 <h1 align="center">^</h1>
 
