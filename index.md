@@ -1,27 +1,25 @@
 
 
-Heyo, I'm Emil, a Swedish-Finnish-American script kid in Cincinnati who likes tinkerin' around! I program and do work in CAD modeling. This is my website, which I'll use to catalogue all the various things I've done over time. Hopefully, by four years after I've set up this site I'll have a portfolio of work that'll be presentable; filled with things that'll show the kind of work ethic and knowledge I have. 
+Heyo, I'm Emil, an American script kid in Cincinnati who likes tinkerin' around! I program and do work in CAD modeling. This is my website, which I'll use to catalogue all the various things I've done over time. Hopefully, by four years after I've set up this site I'll have a portfolio of work that'll be presentable; filled with things that'll show the kind of work ethic and knowledge I have. 
 
 ### Education & Experience
 
 I currently attend Turpin High School, a suburban public school that has been able to provide many great opportunities, including:
-- A programming course covering Python and constructs present in most languages (Comments, booleans, 'if' statements, comparison operators, logical operations, short circuit evaluation, De Morgan's laws, floating point numbers, 'while' loops, 'for' loops, 'break' and 'continue', nested control structures, functions [+ parameters & return values], exception handling, indexing & slicing, string immutability, slicing & concatenation, the 'in' keyword, various string methods, tuples, lists, and list methods.)
+- A programming course covering Python and constructs present in most languages (Comments, booleans, 'if' statements, comparison operators, logical operations, short circuit evaluation, De Morgan's laws, floating point numbers, 'while' loops, 'for' loops, 'break' and 'continue', nested control structures, functions (+ parameters & return values), exception handling, indexing & slicing, string immutability, slicing & concatenation, the 'in' keyword, various string methods, tuples, lists, and list methods.)
 - An engineering course that involved learning CAD modeling.
 - A STEM course that required us to learn basic 3D modeling in Sketchup.
-- An opportunity to go to Live Oaks, a vocational school with a strong STEM focus, especially on programming and engineering.
-- An [INTERalliance](http://interalliance.org/) chapter which provided many educational opportunities, such as one-day crash course classes and participation in a local tech-expo.
 
-Besides my school education, I've taught myself VB.NET (the Microsoft .NET Framework version of Visual Basic), some C#, the logic behind programming of all kinds, and other non-specific things, like 3D mapping in the Source Engine (although I haven't worked in Source in years). A good example to show to demonstrate my computer competence would be the very existence of this website. Just to get this website up, I had to solve the following problems:
-1. How can I manage my code under a version control system for easy revisioning.
+Besides my school education, I've taught myself VB.NET (the Microsoft .NET Framework version of Visual Basic), some C#, some JavaScript, and a far amount of HTML & CSS. A good example to show to demonstrate my computer competence would be the very existence of this website. Just to get this website up, I had to solve the following problems:
+1. How can I manage my code under a version control system for easy revisioning?
 2. How can I obtain a domain name along with hosting to put the website out there?
 3. How should the site be designed from a visual standpoint. What are the intended aesthetics?
 4. How can I use freely available online resources to become proficient enough in HTML, JavaScript, and CSS to complete the website?
 5. How do I keep the communications between incoming connections and the website managed and secure?
 
-Without competence, knowledge, and a good work ethic, you wouldn't be reading this now would you?
+If I was without competence, knowledge, and a good work ethic, you wouldn't be reading this now would you?
 
 ### Work
-Sorry I don't have much to show you for right now. I hadn't been working on cataloguing my work until I turned fourteen, so a lot of my old experiments and creations are lost to the sands of time. They were garbage anyway, so I'll be focusing on making my highschool career a four year period of professional development and learning, so I can have something to present to you. I'll leave you alone now. Go and take a look at what I have here. Seeya around, Space Cowboy. If you want to contact me, shoot me an e-mail at: [`em@emsa.cf`](mailto:em@emsa.cf?subject=I'm gonna make you a billionaire! ...). Thanks.
+I'm be focusing on making my highschool career a four year period of professional development and learning, so I can have more to present to you. I'll leave you alone now. Go and take a look at what I have here. If you want to contact me, shoot me an e-mail at: [`em@emsa.cf`](mailto:em@emsa.cf?subject=I'm gonna make you a billionaire! ...). Seeya.
 
 ## [Chrome Search Extension Base](https://github.com/emil-sayahi/Chrome-Search-Base)
 This was a simple Chrome extension meant for easy modification that implemented searching via a keyword preceding the user's search term typed into the Chrome omnibox.
