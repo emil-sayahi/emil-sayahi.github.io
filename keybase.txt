@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/emilsayahi
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://emsa.cf
+  * I am emilsayahi (https://keybase.io/emilsayahi) on keybase.
+  * I have a public key ASDrh_x0UBl5bOPYwIruGNW9rZpRF_zBW95FUQcwIr1ktQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120eb87fc745019796ce3d8c08aee18d5bdad9a5117fcc15bde4551073022bd64b50a",
+      "host": "keybase.io",
+      "kid": "0120eb87fc745019796ce3d8c08aee18d5bdad9a5117fcc15bde4551073022bd64b50a",
+      "uid": "1d213dbb7f0fec9ec1ff003299aec419",
+      "username": "emilsayahi"
+    },
+    "merkle_root": {
+      "ctime": 1530872060,
+      "hash": "b479f46399a28ab385a33dbfbd71c9e92745596ea6df396856bada80dc8c93dcb5c2ddd2a33670499a91edeb73c164b3f629e372d3705a98850de6e0eff72dc5",
+      "hash_meta": "5218aa16838d875febb8df3b41c52bc0f3600224c1963d4262f94c7526ce0108",
+      "seqno": 3208425
+    },
+    "service": {
+      "entropy": "HLNvr1VU1/5XuTc54u00UkaY",
+      "hostname": "emsa.cf",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.1.2"
+  },
+  "ctime": 1530872069,
+  "expire_in": 504576000,
+  "prev": "d06a1d3c1d22e2de022ca74b8643cf3c90560ba1222c50bb9c91b9757edb2227",
+  "seqno": 18,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg64f8dFAZeWzj2MCK7hjVva2aURf8wVveRVEHMCK9ZLUKp3BheWxvYWTESpcCEsQg0GodPB0i4t4CLKdLhkPPPJBWC6EiLFC7nJG5dX7bIifEIFVRgJtobWbf+6WqYHxnW+Isw4UZ9TRePY5fAaGlKGJOAgHCo3NpZ8RA5xPkkIUVLr0FcJstRGCcN3TW1bQ2fpAbwgjw6WhSRHxcp6Q+aPqmWI42XRHChYaTJXceIaGXTA44k6CX+J0WC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIO9P1lnYFSoQUoeSgP6M4v05fPbqvMXEhMJqFeYV2kW5o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/emilsayahi
+
+==================================================================
