@@ -8,7 +8,6 @@ collections:
   uploads:
     title: Uploads
     output: true
-theme: jekyll-theme-modernist
 plugins:
 - jemoji
 - jekyll-mentions
