@@ -69,14 +69,14 @@ I've drafted a lot of complex parts for my Engineering & Drafting class. Take a 
 SketchSpace is a Jekyll-ran system of publishing web comics to the web. It's made using HTML, CSS, and JavaScript in an effort to make it as static as possible within the realm of reason.
 
 
-##[Basic-Jekyll](https://github.com/EmilSayahi/basic-jekyll/)
+## [Basic-Jekyll](https://github.com/EmilSayahi/basic-jekyll/)
 Basic-Jekyll is a port of ['Basic'](https://github.com/getpelican/pelican-themes/tree/master/basic), a theme for [Pelican](http://getpelican.com/) to [Jekyll](https://jekyllrb.com/).
 
 
 <h1 align="center">^</h1>
 
 ```
-Last updated: June 27th, 2018
+Last updated: August 20th, 2018
 ```
 <p style="font-family: TimesNewRoman, Times New Roman, Times, Baskerville, Georgia, serif;
 	font-size: 10px;
