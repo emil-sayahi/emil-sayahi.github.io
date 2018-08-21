@@ -21,6 +21,34 @@ If I was without competence, knowledge, and a good work ethic, you wouldn't be r
 ### Work
 I'm be focusing on making my highschool career a four year period of professional development and learning, so I can have more to present to you. I'll leave you alone now. Go and take a look at what I have here. If you want to contact me, shoot me an e-mail at: [`em@emsa.cf`](mailto:em@emsa.cf?subject=I'm gonna make you a billionaire! ...). Seeya.
 
+**TECHNOLOGIES**
+- Sketchup
+- Visual Studio
+- SourceMod
+- GitHub
+- SiteLeaf
+- Jekyll
+- Autodesk Inventor
+- GitHub API
+
+
+**SKILLS**
+- SourcePawn
+- VB.NET
+- C#
+- HTML
+- CSS
+- JavaScript
+- Python
+- JSON parsing
+- 3D modeling
+- Interface design
+- Reverse engineering
+- Component part drawing
+- Interface design
+
+
+
 
 ## [Chrome Search Extension Base](https://github.com/EmilSayahi/Chrome-Search-Base/)
 This was a simple Chrome extension meant for easy modification that implemented searching via a keyword preceding the user's search term typed into the Chrome omnibox.
@@ -78,7 +106,7 @@ A UI that was an extremely accurate replication of the Wii system settings UI, w
 **SKILLS & TECHNOLOGIES**:
 - VB.NET
 - Visual Studio
-- User interface design
+- Interface design
 - Reverse engineering
 
 
