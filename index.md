@@ -173,6 +173,13 @@ making file downloads quicker and more reliable, taking up less bandwidth by mak
 - Interface design
 
 
+<br>
+### SOCIAL
+[Blog](https://liech.ga/m)
+<br>
+[E-mail: em@emsa.cf](mailto:em@emsa.cf)
+
+
 <h1 align="center">^</h1>
 
 ```
