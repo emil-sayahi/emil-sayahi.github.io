@@ -174,7 +174,7 @@ making file downloads quicker and more reliable, taking up less bandwidth by mak
 
 
 <br>
-### SOCIAL
+### Social
 [Blog](https://liech.ga/m)
 <br>
 [E-mail: em@emsa.cf](mailto:em@emsa.cf)
