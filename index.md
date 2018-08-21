@@ -1,6 +1,6 @@
 
 
-Heyo, I'm Emil, an American script kid in Cincinnati who likes tinkerin' around! I program and do work in CAD modeling. This is my website, which I'll use to catalogue all the various things I've done over time. Hopefully, by four years after I've set up this site I'll have a portfolio of work that'll be presentable; filled with things that'll show the kind of work ethic and knowledge I have. 
+Heyo, I'm Emil, an American script kid in Cincinnati who likes tinkerin' around! I program, design user interfaces, and do work in CAD component part modeling. This is my 'about me' website, which I'll use to catalogue all the various things I've done over time. Hopefully, by four years after I've set up this site I'll have a portfolio of work that'll be presentable; filled with things that'll show the kind of work ethic and knowledge I have. 
 
 ### Education & Experience
 
@@ -21,36 +21,74 @@ If I was without competence, knowledge, and a good work ethic, you wouldn't be r
 ### Work
 I'm be focusing on making my highschool career a four year period of professional development and learning, so I can have more to present to you. I'll leave you alone now. Go and take a look at what I have here. If you want to contact me, shoot me an e-mail at: [`em@emsa.cf`](mailto:em@emsa.cf?subject=I'm gonna make you a billionaire! ...). Seeya.
 
-## [Chrome Search Extension Base](https://github.com/emil-sayahi/Chrome-Search-Base)
+
+## [Chrome Search Extension Base](https://github.com/EmilSayahi/Chrome-Search-Base/)
 This was a simple Chrome extension meant for easy modification that implemented searching via a keyword preceding the user's search term typed into the Chrome omnibox.
+<br>
+**SKILLS & TECHNOLOGIES**:
+- JavaScript
 
 
 ## [3D Modeling](https://github.com/emil-sayahi/Sketchup-House/)
 I had to model an entire house and the things inside of it a couple years ago for a generic STEM class in middle school. Take a look.
+<br>
+**SKILLS & TECHNOLOGIES**:
+- Sketchup
+- 3D modeling
 
 
-## [Hello Plugin](https://github.com/emil-sayahi/Hello-Plugin)
+## [Hello Plugin](https://github.com/EmilSayahi/Hello-Plugin)
 This was a simple SourceMod plugin for Source Engine game servers. It printed "Hello!" in the chat when activated by the command /hello. For testing purposes.
+<br>
+**SKILLS & TECHNOLOGIES**:
+- SourceMod
+- SourcePawn
 
 
 ## [Calculator](https://github.com/emil-sayahi/Calculator)
 Just a calculator? Yep. This was a calculator made in VB.NET many, many years ago. I found it and put it up on GitHub to prove that I can use Visual Studio and that I know VB.NET to a certain extent. Not much else to say on it.
+<br>
+**SKILLS & TECHNOLOGIES**:
+- VB.NET
+- Visual Studio
+
 
 ## [TryMath](http://emsa.cf/trymath.html)
-I tried getting math text to render on the site. When it did, I decided to make a Python script to calculate the stupid equation I bothered to render.
+A test in getting math text to render on the site. When it did, I decided to make a Python script to calculate the crazy equation I rendered.
+<br>
+**SKILLS & TECHNOLOGIES**:
+- JavaScript
+- HTML
+- CSS
+- Python
+- Interface design
 
 
 ## [OpenTK Rendering Experiment](https://github.com/emil-sayahi/TriBox)
 This was a rendering program that was intended to be a game engine using OpenGL, written in C#, based on a collection of model loader classes called Meshomatic. It could load basic .OBJ models. Mainly what I managed to accomplish with this was loading in different kinds of models and manipulating their positions on screen by transforming the camera.
+<br>
+**SKILLS & TECHNOLOGIES**:
+- C#
+- Visual Studio
 
 
 ## [Isla Delphiino](https://github.com/emil-sayahi/Isla-Delphiino)
-This was a work-in-progress utility for packaging up a portable copy of the Dolphin emulator and a Wii or Gamecube .ISO into a single, portable executable. The main result of this was not a utility, as I eventually learned it was impossible not only because of the legal consequences that I was aware of prior to development, but also because the UI code of Dolphin, which uses Wx, cannot be removed (as it is old and horribly designed). <br>
-What I got out of this project was a UI that was an extremely accurate replication of the Wii system settings UI, which showed how good I was in reverse engineering user interfaces by performing visual and functionsl analysis on the UI.
+A UI that was an extremely accurate replication of the Wii system settings UI, which demonstrated the ability to reverse engineer user interfaces by performing visual and functional analysis of the UI.
+<br>
+**SKILLS & TECHNOLOGIES**:
+- VB.NET
+- Visual Studio
+- User interface design
+- Reverse engineering
 
 
 ## [Lime School](https://limeschool.cf)
 This is a school blog that contains the work of the classes I've taken that have asked me to host a blog. Code is on GitHub, and it runs on Jekyll. Taught me how to use a CMS, markdown, Jekyll, GitHub Pages, and Cloudflare.
+<br>
+**SKILLS & TECHNOLOGIES**:
+- GitHub
+- SiteLeaf
+- Jekyll
 
 
 ## CAD 3D Modeling (Part Drafting)
@@ -64,13 +102,47 @@ I've drafted a lot of complex parts for my Engineering & Drafting class. Take a 
 - 8-2 Automata Design Challenge:
 	- [Part Drawings & Project Videos](https://drive.google.com/open?id=1-SLNnRsgbT59mriSYPTpyeMdbzXKqiCW)
 	- [Part & Assembly Files](https://drive.google.com/drive/folders/1PK37dpg4KYz_6_9CvNXwLHqyKJ-ttLDm?usp=sharing)
+	
+
+
+
+**SKILLS & TECHNOLOGIES**:
+- Autodesk Inventor
+- Component part drawing
+- 3D modeling
+
 
 ## [SketchSpace](https://github.com/EmilSayahi/SketchSpace)
 SketchSpace is a Jekyll-ran system of publishing web comics to the web. It's made using HTML, CSS, and JavaScript in an effort to make it as static as possible within the realm of reason.
+<br>
+**SKILLS & TECHNOLOGIES**:
+- GitHub
+- Jekyll
+- HTML
+- CSS
+- JavaScript
 
 
 ## [Basic-Jekyll](https://github.com/EmilSayahi/basic-jekyll/)
 Basic-Jekyll is a port of ['Basic'](https://github.com/getpelican/pelican-themes/tree/master/basic), a theme for [Pelican](http://getpelican.com/) to [Jekyll](https://jekyllrb.com/).
+<br>
+**SKILLS & TECHNOLOGIES**:
+- GitHub
+- Jekyll
+- HTML
+- CSS
+- JavaScript
+
+
+## [A personal upload center](https://liech.ga/up/)
+A webpage which shows the files I've uploaded to my personal website. Files smaller than 1,000 characters are saved to RAM,
+making file downloads quicker and more reliable, taking up less bandwidth by making a connection once per pageview to download any file rather than a connection per download. This uses the GitHub API and demonstrates the ability to create a nice looking yet simple and functional user interface.
+<br>
+**SKILLS & TECHNOLOGIES**:
+- JavaScript
+- JSON parsing
+- GitHub API
+- Interface design
 
 
 <h1 align="center">^</h1>
