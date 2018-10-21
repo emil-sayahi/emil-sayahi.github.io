@@ -19,10 +19,18 @@ div.wrapper > header {
 //display: none;
 }
 
+html{
+  height: 100% !important;
+}
+
 body {
- background: #6e6c89 !important;
- background: 	#6e6c89 linear_gradient(#6e6c89, #444355)  url('checker.png') fixed !important;
- background-image:url('checker.png') !important;
+ padding:50px 0;
+ margin:0;
+ font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+ color:#555;
+ font-weight:300;
+ background:inline-image("checker.png") fixed;
+ height:100%; !important;
 }
 
 header ul li {
