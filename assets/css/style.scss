@@ -19,10 +19,14 @@ div.wrapper > header {
 //display: none;
 }
 
-html{
-  //height: 100% !important;
+html {
+  background:#6e6c89 url(checker.png)  center center fixed;
+  //background-size: cover;
+  height: 100%;
+  //background:#6e6c89 !important;
+  //background:#6e6c89 linear_gradient(#6e6c89, #444355) !important;
+  //overflow: hidden;
 }
-
 body {
  padding:50px 0;
  margin:0;
@@ -31,9 +35,9 @@ body {
  font-weight:300;
  background:inline-image("checker.png") fixed;
  height:100% !important;
- background: #6e6c89 !important;
- background: 	#6e6c89 linear_gradient(#6e6c89, #444355)  url('checker.png') fixed !important;
- background-image:url('checker.png') !important;
+ //background:#6e6c89 !important;
+ //background:#6e6c89 linear_gradient(#6e6c89, #444355) url("checker.png") fixed !important;
+ //background-image:url("checker.png") !important
 }
 
 header ul li {
