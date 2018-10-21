@@ -31,6 +31,9 @@ body {
  font-weight:300;
  background:inline-image("checker.png") fixed;
  height:100% !important;
+ background: #6e6c89 !important;
+ background: 	#6e6c89 linear_gradient(#6e6c89, #444355)  url('checker.png') fixed !important;
+ background-image:url('checker.png') !important;
 }
 
 header ul li {
