@@ -1,22 +1,6 @@
 
 
-Heyo, I'm Emil, an American script kid in Cincinnati who likes tinkerin' around! I program, design user interfaces, and do work in CAD component part modeling. This is my 'about me' website, which I'll use to catalogue all the various things I've done over time. Hopefully, by four years after I've set up this site I'll have a portfolio of work that'll be presentable; filled with things that'll show the kind of work ethic and knowledge I have. 
-
-### Education & Experience
-
-I currently attend Turpin High School, a suburban public school that has been able to provide many great opportunities, including:
-- A programming course covering Python and constructs present in most languages (Comments, booleans, 'if' statements, comparison operators, logical operations, short circuit evaluation, De Morgan's laws, floating point numbers, 'while' loops, 'for' loops, 'break' and 'continue', nested control structures, functions (+ parameters & return values), exception handling, indexing & slicing, string immutability, slicing & concatenation, the 'in' keyword, various string methods, tuples, lists, and list methods.)
-- An engineering course that involved learning CAD modeling.
-- A STEM course that required us to learn basic 3D modeling in Sketchup.
-
-Besides my school education, I've taught myself VB.NET (the Microsoft .NET Framework version of Visual Basic), some C#, some JavaScript, and a far amount of HTML & CSS. A good example to show to demonstrate my computer competence would be the very existence of this website. Just to get this website up, I had to solve the following problems:
-1. How can I manage my code under a version control system for easy revisioning?
-2. How can I obtain a domain name along with hosting to put the website out there?
-3. How should the site be designed from a visual standpoint. What are the intended aesthetics?
-4. How can I use freely available online resources to become proficient enough in HTML, JavaScript, and CSS to complete the website?
-5. How do I keep the communications between incoming connections and the website managed and secure?
-
-If I was without competence, knowledge, and a good work ethic, you wouldn't be reading this now would you?
+Heyo, I'm Emil, an American programmer in Cincinnati who likes tinkerin' around! I program, design user interfaces, and do work in CAD component part modeling. This is my 'about me' website, which I'll use to catalogue all the various things I've done over time. Hopefully, by four years after I've set up this site I'll have a portfolio of work that'll be presentable; filled with things that'll show the kind of work ethic and knowledge I have. 
 
 ### Work
 I'm be focusing on making my highschool career a four year period of professional development and learning, so I can have more to present to you. I'll leave you alone now. Go and take a look at what I have here. If you want to contact me, shoot me an e-mail at: [`em@emsa.cf`](mailto:em@emsa.cf?subject=I'm gonna make you a billionaire! ...). Seeya.
@@ -183,7 +167,7 @@ making file downloads quicker and more reliable, taking up less bandwidth by mak
 <h1 align="center">^</h1>
 
 ```
-Last updated: August 20th, 2018
+Last updated: November 24th, 2018
 ```
 <p style="font-family: TimesNewRoman, Times New Roman, Times, Baskerville, Georgia, serif;
 	font-size: 10px;
