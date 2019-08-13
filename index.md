@@ -148,7 +148,7 @@ Basic-Jekyll is a port of ['Basic'](https://github.com/getpelican/pelican-themes
 
 ## [A personal upload center](https://liech.ga/up/)
 A webpage which shows the files I've uploaded to my personal website. Files smaller than 1,000 characters are saved to RAM,
-making file downloads quicker and more reliable, taking up less bandwidth by making a connection once per pageview to download any file rather than a connection per download. This uses the GitHub API and demonstrates the ability to create a nice looking yet simple and functional user interface.
+making file downloads quicker and more reliable, taking up less bandwidth by making a connection once per pageview to download any file rather than a connection per download. This uses the GitHub API and demonstrates the ability to create a nice looking yet simple and functional user interface. The domain this was available on has been taken by the registar as I neglected to renew it.
 <br>
 **SKILLS & TECHNOLOGIES**:
 - JavaScript
@@ -159,7 +159,8 @@ making file downloads quicker and more reliable, taking up less bandwidth by mak
 
 <br>
 ### Social
-[Blog](https://liech.ga/m)
+[Blog](https://liech.ga/m) - Domain expired.
+[Tumblr](https://tumblr.emsa.cf)
 <br>
 [E-mail: em@emsa.cf](mailto:em@emsa.cf)
 
@@ -167,11 +168,11 @@ making file downloads quicker and more reliable, taking up less bandwidth by mak
 <h1 align="center">^</h1>
 
 ```
-Last updated: November 24th, 2018
+Last updated: 2019-08-13
 ```
 <p style="font-family: TimesNewRoman, Times New Roman, Times, Baskerville, Georgia, serif;
 	font-size: 10px;
 	font-style: normal;
 	font-variant: normal;
 	font-weight: 400;
-	line-height: 16px;">Copyright © 2017-2018 by Emil Sayahi. All rights reserved.</p>
+	line-height: 16px;">Copyright © 2017-2019 by Emil Sayahi. All rights reserved.</p>
