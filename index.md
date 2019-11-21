@@ -1,99 +1,34 @@
 
 
-Heyo, I'm Emil, an American programmer in Cincinnati who likes tinkerin' around! I program, design user interfaces, and do work in CAD component part modeling. This is my 'about me' website, which I'll use to catalogue all the various things I've done over time. Hopefully, by four years after I've set up this site I'll have a portfolio of work that'll be presentable; filled with things that'll show the kind of work ethic and knowledge I have. 
+Heyo, I'm Emil, an American programmer in Cincinnati who likes tinkerin' around! I program, design user interfaces, and do work in CAD component part modeling. This is my 'about me' website, which I'll use to catalogue all the various things I've done over time. Hopefully, after having had this site up for a few years, I'll have a portfolio of work that'll be presentable and filled with things that'll show the kind of work ethic and knowledge I have. 
 
 ### Work
 I'm be focusing on making my highschool career a four year period of professional development and learning, so I can have more to present to you. I'll leave you alone now. Go and take a look at what I have here. If you want to contact me, shoot me an e-mail at: [`em@emsa.cf`](mailto:em@emsa.cf?subject=I'm gonna make you a billionaire! ...). Seeya.
 
-**TECHNOLOGIES**
-- Sketchup
-- Visual Studio
-- SourceMod
-- GitHub
-- SiteLeaf
-- Jekyll
-- Autodesk Inventor
-- GitHub API
-
-
-**SKILLS**
-- SourcePawn
-- VB.NET
-- C#
-- HTML
-- CSS
-- JavaScript
+**THINGS I KNOW**
+- Java (JVM)
+- .NET Core (C#, VB.NET)
 - Python
-- JSON parsing
-- 3D modeling
-- Interface design
-- Reverse engineering
-- Component part drawing
-- Interface design
+- HTML & CSS
+- CAD modelling
+  - Part drawings (blueprints, schematics)
+  - 3D printing
 
-
-
-
-## [Chrome Search Extension Base](https://github.com/EmilSayahi/Chrome-Search-Base/)
-This was a simple Chrome extension meant for easy modification that implemented searching via a keyword preceding the user's search term typed into the Chrome omnibox.
-<br>
-**SKILLS & TECHNOLOGIES**:
-- JavaScript
-
-
-## [3D Modeling](https://github.com/emil-sayahi/Sketchup-House/)
-I had to model an entire house and the things inside of it a couple years ago for a generic STEM class in middle school. Take a look.
-<br>
-**SKILLS & TECHNOLOGIES**:
-- Sketchup
-- 3D modeling
-
-
-## [Hello Plugin](https://github.com/EmilSayahi/Hello-Plugin)
-This was a simple SourceMod plugin for Source Engine game servers. It printed "Hello!" in the chat when activated by the command /hello. For testing purposes.
-<br>
-**SKILLS & TECHNOLOGIES**:
-- SourceMod
+**THINGS I'M LEARNING**
+- Functional programming
+  - Haskell
+  - JavaScript (node.js)
+    - Electron
 - SourcePawn
+- P2P networking applications (IPFS protocol)
 
+**THINGS I'M DOING**
+- Deck, a set of P2P programs (https://github.com/limeschool/deck)
+  - std-utils, cross-plat. C# recreations of Linux's core utilities (https://github.com/limeschool/deck/tree/master/bin/std-utils)
+  - TurpinChat, a social network not bound by any client (https://github.com/limeschool/TurpinChat)
+    - Electron or C# client will be made later
 
-## [Calculator](https://github.com/emil-sayahi/Calculator)
-Just a calculator? Yep. This was a calculator made in VB.NET many, many years ago. I found it and put it up on GitHub to prove that I can use Visual Studio and that I know VB.NET to a certain extent. Not much else to say on it.
-<br>
-**SKILLS & TECHNOLOGIES**:
-- VB.NET
-- Visual Studio
-
-
-## [TryMath](http://emsa.cf/trymath.html)
-A test in getting math text to render on the site. When it did, I decided to make a Python script to calculate the crazy equation I rendered.
-<br>
-**SKILLS & TECHNOLOGIES**:
-- JavaScript
-- HTML
-- CSS
-- Python
-- Interface design
-
-
-## [OpenTK Rendering Experiment](https://github.com/emil-sayahi/TriBox)
-This was a rendering program that was intended to be a game engine using OpenGL, written in C#, based on a collection of model loader classes called Meshomatic. It could load basic .OBJ models. Mainly what I managed to accomplish with this was loading in different kinds of models and manipulating their positions on screen by transforming the camera.
-<br>
-**SKILLS & TECHNOLOGIES**:
-- C#
-- Visual Studio
-
-
-## [Isla Delphiino](https://github.com/emil-sayahi/Isla-Delphiino)
-A UI that was an extremely accurate replication of the Wii system settings UI, which demonstrated the ability to reverse engineer user interfaces by performing visual and functional analysis of the UI.
-<br>
-**SKILLS & TECHNOLOGIES**:
-- VB.NET
-- Visual Studio
-- Interface design
-- Reverse engineering
-
-
+**THINGS I'VE DONE**
 ## [Lime School](https://limeschool.cf)
 This is a school blog that contains the work of the classes I've taken that have asked me to host a blog. Code is on GitHub, and it runs on Jekyll. Taught me how to use a CMS, markdown, Jekyll, GitHub Pages, and Cloudflare.
 <br>
@@ -157,9 +92,69 @@ making file downloads quicker and more reliable, taking up less bandwidth by mak
 - Interface design
 
 
+## [Calculator](https://github.com/emil-sayahi/Calculator)
+Just a calculator? Yep. This was a calculator made in VB.NET many, many years ago. I found it and put it up on GitHub to prove that I can use Visual Studio and that I know VB.NET to a certain extent. Not much else to say on it.
+<br>
+**SKILLS & TECHNOLOGIES**:
+- VB.NET
+- Visual Studio
+
+
+## [Hello Plugin](https://github.com/EmilSayahi/Hello-Plugin)
+This was a simple SourceMod plugin for Source Engine game servers. It printed "Hello!" in the chat when activated by the command /hello. For testing purposes.
+<br>
+**SKILLS & TECHNOLOGIES**:
+- SourceMod
+- SourcePawn
+
+
+## [TryMath](http://emsa.cf/trymath.html)
+A test in getting math text to render on the site. When it did, I decided to make a Python script to calculate the crazy equation I rendered.
+<br>
+**SKILLS & TECHNOLOGIES**:
+- JavaScript
+- HTML
+- CSS
+- Python
+- Interface design
+
+
+## [OpenTK Rendering Experiment](https://github.com/emil-sayahi/TriBox)
+This was a rendering program that was intended to be a game engine using OpenGL, written in C#, based on a collection of model loader classes called Meshomatic. It could load basic .OBJ models. Mainly what I managed to accomplish with this was loading in different kinds of models and manipulating their positions on screen by transforming the camera.
+<br>
+**SKILLS & TECHNOLOGIES**:
+- C#
+- Visual Studio
+
+
+## [Isla Delphiino](https://github.com/emil-sayahi/Isla-Delphiino)
+A UI that was an extremely accurate replication of the Wii system settings UI, which demonstrated the ability to reverse engineer user interfaces by performing visual and functional analysis of the UI.
+<br>
+**SKILLS & TECHNOLOGIES**:
+- VB.NET
+- Visual Studio
+- Interface design
+- Reverse engineering
+
+## [Chrome Search Extension Base](https://github.com/EmilSayahi/Chrome-Search-Base/)
+This was a simple Chrome extension meant for easy modification that implemented searching via a keyword preceding the user's search term typed into the Chrome omnibox.
+<br>
+**SKILLS & TECHNOLOGIES**:
+- JavaScript
+
+
+## [3D Modeling](https://github.com/emil-sayahi/Sketchup-House/)
+I had to model an entire house and the things inside of it a couple years ago for a generic STEM class in middle school. Take a look.
+<br>
+**SKILLS & TECHNOLOGIES**:
+- Sketchup
+- 3D modeling
+
+
+
 <br>
 ### Social
-[Blog](https://liech.ga/m) - Domain expired.
+[Blog](https://liech.ga/m) - Currently offline, will be back soon.
 [Tumblr](https://tumblr.emsa.cf)
 <br>
 [E-mail: em@emsa.cf](mailto:em@emsa.cf)
@@ -168,7 +163,7 @@ making file downloads quicker and more reliable, taking up less bandwidth by mak
 <h1 align="center">^</h1>
 
 ```
-Last updated: 2019-08-13
+Last updated: 2019-11-21
 ```
 <p style="font-family: TimesNewRoman, Times New Roman, Times, Baskerville, Georgia, serif;
 	font-size: 10px;
