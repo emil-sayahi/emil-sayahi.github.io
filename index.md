@@ -3,7 +3,7 @@
 Heyo, I'm Emil, an American programmer in Cincinnati who likes tinkerin' around! I program, design user interfaces, and do work in CAD component part modeling. This is my 'about me' website, which I'll use to catalogue all the various things I've done over time. Hopefully, after having had this site up for a few years, I'll have a portfolio of work that'll be presentable and filled with things that'll show the kind of work ethic and knowledge I have. 
 
 ### Work
-I'm be focusing on making my highschool career a four year period of professional development and learning, so I can have more to present to you. I'll leave you alone now. Go and take a look at what I have here. If you want to contact me, shoot me an e-mail at: [`em@emsa.cf`](mailto:em@emsa.cf?subject=I'm gonna make you a billionaire! ...). Seeya.
+I'm be focusing on making my highschool career a ~~four~~ three year period of professional development and learning, so I can have more to present to you. I'll leave you alone now. Go and take a look at what I have here. If you want to contact me, shoot me an e-mail at: [`em@emsa.cf`](mailto:em@emsa.cf?subject=I'm gonna make you a billionaire! ...). Seeya.
 
 **THINGS I KNOW**
 - Java (JVM)
@@ -23,10 +23,8 @@ I'm be focusing on making my highschool career a four year period of professiona
 - P2P networking applications (IPFS protocol)
 
 **THINGS I'M DOING**
-- Deck, a set of P2P programs (https://github.com/limeschool/deck)
-  - std-utils, cross-plat. C# recreations of Linux's core utilities (https://github.com/limeschool/deck/tree/master/bin/std-utils)
-  - TurpinChat, a social network not bound by any client (https://github.com/limeschool/TurpinChat)
-    - Electron or C# client will be made later
+- Deck, an experimental social network that wipes all content after some time. Built in Blazor (https://github.com/limeschool/deck)
+- Diademos, a news aggregator. Built in Blazor. (https://github.com/MadeByEmil/Diademos)
 
 **THINGS I'VE DONE**
 ## [Lime School](https://limeschool.cf)
@@ -163,7 +161,7 @@ I had to model an entire house and the things inside of it a couple years ago fo
 <h1 align="center">^</h1>
 
 ```
-Last updated: 2019-11-21
+Last updated: 2020-01-02
 ```
 <p style="font-family: TimesNewRoman, Times New Roman, Times, Baskerville, Georgia, serif;
 	font-size: 10px;
