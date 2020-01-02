@@ -17,9 +17,13 @@ I'm focusing on making my highschool career a ~~four~~ three year period of prof
 **THINGS I'M LEARNING**
 - Functional programming
   - Haskell
-  - JavaScript (node.js)
-    - Electron
+  - JavaScript (TypeScript)
 - SourcePawn
+- ASP.NET
+  - Blazor
+    - Electron.NET
+      - Electron
+        - Javascript
 - P2P networking applications (IPFS protocol)
 
 **THINGS I'M DOING**
