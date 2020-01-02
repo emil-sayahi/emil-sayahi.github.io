@@ -3,7 +3,7 @@
 Heyo, I'm Emil, an American programmer in Cincinnati who likes tinkerin' around! I program, design user interfaces, and do work in CAD component part modeling. This is my 'about me' website, which I'll use to catalogue all the various things I've done over time. Hopefully, after having had this site up for a few years, I'll have a portfolio of work that'll be presentable and filled with things that'll show the kind of work ethic and knowledge I have. 
 
 ### Work
-I'm be focusing on making my highschool career a ~~four~~ three year period of professional development and learning, so I can have more to present to you. I'll leave you alone now. Go and take a look at what I have here. If you want to contact me, shoot me an e-mail at: [`em@emsa.cf`](mailto:em@emsa.cf?subject=I'm gonna make you a billionaire! ...). Seeya.
+I'm focusing on making my highschool career a ~~four~~ three year period of professional development and learning, so I can have more to present to you. I'll leave you alone now. Go and take a look at what I have here. If you want to contact me, shoot me an e-mail at: [`em@emsa.cf`](mailto:em@emsa.cf?subject=I'm gonna make you a billionaire! ...). Seeya.
 
 **THINGS I KNOW**
 - Java (JVM)
